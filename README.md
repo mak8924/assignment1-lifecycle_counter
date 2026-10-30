@@ -35,7 +35,7 @@ A comprehensive Flutter practical application demonstrating state management, in
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/counter_assignment.git
+   git clone https://github.com/mak8924/assignment1-lifecycle_counter
    ```
 
 2. **Navigate to the project directory**:
